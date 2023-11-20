@@ -1,8 +1,12 @@
-# GitGraph
+
 Course Name: CSCI 3323
-<<<<<<< HEAD
-Assignment: Git Assignment 
-=======
-Assignment: Git Assign
->>>>>>> main
+Assignmen: Git Assignment 
+
+Assignme: Git Assign
+
 When:
+
+Assignmet: Git
+Name: Oreoluwa Oladele-Ajose
+Why:
+
