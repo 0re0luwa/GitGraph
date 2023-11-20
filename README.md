@@ -1,2 +1,3 @@
 # GitGraph
- A comit graph in github
+Course Name: CSCI 3323
+
